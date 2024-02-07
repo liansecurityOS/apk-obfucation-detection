@@ -1,3 +1,6 @@
+<img width="993" alt="image" src="https://github.com/liansecurityOS/apk-obfucation-detection/assets/5053289/3d07e02d-67af-45d3-b266-dd62e3b6b2b3">
+
+
 ## use the model to predict
 ```python predicat_apk.py <apkPath>```
 ## use the model to retrain
